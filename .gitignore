@@ -2,3 +2,6 @@
 *.s
 *.d
 raw*.txt
+*.tar
+.gdb_history
+*.zip
