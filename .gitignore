@@ -5,3 +5,12 @@ raw*.txt
 *.tar
 .gdb_history
 *.zip
+.csim_results
+.marker
+64.c
+csim
+test-trans
+trace.f0
+trace.f1
+tracegen
+/ics-ld-public
